@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="1064" height="1054" alt="tupacOnceSaid" src="https://github.com/user-attachments/assets/a2d5991f-7fd2-49a6-a351-2ef01a824794" />
+
+
 
 <!--
 **krawier/krawier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
